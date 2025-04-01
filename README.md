@@ -23,11 +23,11 @@ Estudante e aspirante de tecnologia, busco uma oportunidade de estágio para apl
 
 ## Histórico Escolar
 
-- **Infosul Treinamento - Sistemas Operacionais e Hardware (2013-2014)
-- **Pro Efficient - Curso Técnico de Inglês (2013-2016)
-- **Ensino Médio Completo (2017-2019)
-- **Tecnólogo em Analise e Desenvolvimento de Sistemas - FSG (2020-2021) (curso trancado)
-- **Técnico em Desenvolvimento de Sistemas - SENAC RS (2023-Atual)
+- Infosul Treinamento - Sistemas Operacionais e Hardware (2013-2014)
+- Pro Efficient - Curso Técnico de Inglês (2013-2016)
+- Ensino Médio Completo (2017-2019)
+- Tecnólogo em Analise e Desenvolvimento de Sistemas - FSG (2020-2021) (curso trancado)
+- Técnico em Desenvolvimento de Sistemas - SENAC RS (2023-Atual)
 
 ## Interesses
 
